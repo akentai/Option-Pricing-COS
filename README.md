@@ -69,7 +69,8 @@ SIAM J. Sci. Comput., 2012.
 
 ---
 
-## 🗂️ File Structure (planned)
-👉 For full derivation with LaTeX-rendered equations, see [docs/Derivation.pdf](docs/Derivation.pdf)
+## 🗂️ File Structure 
+
+👉 For full derivation with LaTeX-rendered equations, see [COS Bucket Option - Proof.pdf](COS%20Bucket%20Option%20-%20Proof.pdf)
 
 👉 To run the full code, open the [Google Collab Notebook](https://colab.research.google.com/drive/1YIg8cbKayzC7Lm77GpuyKXrdrDnx-LOP) or clone this repository.
