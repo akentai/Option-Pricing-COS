@@ -24,13 +24,13 @@ This project is split into two parts:
 
 ## 📌 Problem Setup
 
-![Problem](docs/Equation1.png)
+![Problem](Equation1.png)
 
 ---
 
 ## 🧠 Solution Overview
 
-![Approximation](docs/Equation2.png)
+![Approximation](Equation2.png)
 
 This formula enables **efficient multidimensional density recovery** from the characteristic function.
 
@@ -40,7 +40,7 @@ This formula enables **efficient multidimensional density recovery** from the ch
 
 Using the COS approximation, we write the final pricing formula for the basket option as:
 
-![COS Pricing](docs/Equation3.png)
+![COS Pricing](Equation3.png)
 
 - \( F_k \): Fourier-Cosine coefficients from the characteristic function \( \phi(t) \)
 - \( V_k \): Fourier-Cosine coefficients of the **payoff function**
@@ -51,7 +51,7 @@ Using the COS approximation, we write the final pricing formula for the basket o
 
 For comparison, we also implement:
 
-![Monte Carlo](docs/Equation4.png)
+![Monte Carlo](Equation4.png)
 
 ---
 
@@ -72,4 +72,4 @@ SIAM J. Sci. Comput., 2012.
 ## 🗂️ File Structure (planned)
 👉 For full derivation with LaTeX-rendered equations, see [docs/Derivation.pdf](docs/Derivation.pdf)
 
-👉 To run the full code, open [COS_Basket.ipynb](COS_Basket.ipynb) 
+👉 To run the full code, open the [Google Collab Notebook](https://colab.research.google.com/drive/1YIg8cbKayzC7Lm77GpuyKXrdrDnx-LOP) or clone this repository.
